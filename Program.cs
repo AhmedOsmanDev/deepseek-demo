@@ -1,4 +1,4 @@
-﻿using DeepSeekDemo.Models;
+﻿using DeepSeekDemo.Helpers;
 using DeepSeekDemo.Services;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;

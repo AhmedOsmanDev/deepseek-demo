@@ -1,4 +1,4 @@
-﻿namespace DeepSeekDemo.Models;
+﻿namespace DeepSeekDemo.Helpers;
 
 public static class ConsoleHelper
 {
